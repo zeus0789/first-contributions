@@ -4,6 +4,7 @@
 - [Mrunmayee A](https://github.com/MrunmayeeA)
 - [Merve Erdol](https://github.com/merveer)
 - [Aaron Dills](https://github.com/AaronDills)
+- [Vaibhav Shukla](https://github.com/vaibhavite)
 - [Jessica Campbell](https://github.com/jlcampbell)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
